@@ -9,10 +9,10 @@ module.exports = {
       'xs': '375px',
       // => @media (min-width: 375px) { ... }
 
-      'sm': '640px',
+      'sm': '700px',
       // => @media (min-width: 640px) { ... }
 
-      'md': '768px',
+      'md': '992px',
       // => @media (min-width: 768px) { ... }
 
       'lg': '1024px',
@@ -29,6 +29,10 @@ module.exports = {
       'yellow': 'hsl(39, 100%, 56%)',
       'green': 'hsl(166, 100%, 37%)',
       'blue': 'hsl(234, 85%, 45%)',
+      'bgRed': 'rgb(255, 246, 245)',
+      'bgYellow': 'rgb(255, 250, 241)',
+      'bgGreen': 'rgb(239, 250, 249)',
+      'bgBlue': 'rgb(240, 241, 252)',
       'slateBlue': 'hsl(252, 100%, 67%)',
       'royalBlue': 'hsl(241, 81%, 54%)',
       'violetBlue': 'hsla(256, 72%, 46%, 1)',

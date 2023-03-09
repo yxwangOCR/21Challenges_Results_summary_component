@@ -6,7 +6,7 @@
 
 @layer base {
     body {
-        @apply font-text text-lg;
+        @apply font-text text-lg bg-paleBlue flex justify-center items-center min-h-screen;
     }
 
 }
